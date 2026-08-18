@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "python3",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "files.encoding": "utf8",
+  "python.analysis.typeCheckingMode": "basic"
+}
