@@ -114,7 +114,9 @@ $$|\text{Score}_{\text{Cross}} - \text{Score}_{\text{X}}| < 10^{-9} \implies \te
 
 ```
 mini_npu_simulator/
-├── main.py        # Mini NPU 시뮬레이터 메인 진입점 및 로직 구현
-├── data.json      # 크기별(5x5, 13x13, 25x25) 필터 및 패턴 테스트 데이터셋
-└── README.md      # 실행 가이드, 구현 상세 및 결과 분석 리포트
+├── .doc/              # 상세 기술 문서 및 인과관계 학습 가이드 (01~06, INDEX)
+├── main.py            # Mini NPU 시뮬레이터 메인 진입점 및 로직 구현 (상세 주석 포함)
+├── data.json          # 크기별(5x5, 13x13, 25x25) 필터 및 패턴 테스트 데이터셋
+└── README.md          # 실행 가이드, 구현 상세 및 결과 분석 리포트
 ```
+
